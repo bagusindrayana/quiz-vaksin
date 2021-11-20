@@ -124,6 +124,14 @@ body {
     }
 }
 
+.curhat-section .text-start {
+    text-align: center!important;
+}
+
+.curhat-section .text-end {
+    text-align: center!important;
+}
+
 
 /* responsive */
 @media only screen and (min-width: 600px) {
@@ -166,5 +174,13 @@ body {
 
     .button-section {
         text-align: left!important;
+    }
+
+    .curhat-section .text-start {
+        text-align: left!important;
+    }
+    
+    .curhat-section .text-end {
+        text-align: right!important;
     }
 }
