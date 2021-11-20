@@ -7,6 +7,7 @@ body {
     background-size:cover;
     background-repeat: no-repeat;
     min-height: 100vh;
+    height: 100%;
 }
 
 .main-content {
@@ -153,8 +154,8 @@ body {
     }
 
     .main-content {
-        margin-top: 3rem!important;
-        margin-bottom: 3rem!important;
+        margin-top: 2rem!important;
+        margin-bottom: 2rem!important;
         padding: 3rem!important;
         width: 85%;
     }
